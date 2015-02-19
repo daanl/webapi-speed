@@ -1,0 +1,14 @@
+C:\Projects\Playground\WebApplication11\WebApplication11\bin\WebApplication11.dll.config
+C:\Projects\Playground\WebApplication11\WebApplication11\bin\WebApplication11.dll
+C:\Projects\Playground\WebApplication11\WebApplication11\bin\WebApplication11.pdb
+C:\Projects\Playground\WebApplication11\WebApplication11\bin\Newtonsoft.Json.dll
+C:\Projects\Playground\WebApplication11\WebApplication11\bin\System.Net.Http.Formatting.dll
+C:\Projects\Playground\WebApplication11\WebApplication11\bin\System.Web.Http.dll
+C:\Projects\Playground\WebApplication11\WebApplication11\bin\System.Web.Http.WebHost.dll
+C:\Projects\Playground\WebApplication11\WebApplication11\bin\Newtonsoft.Json.xml
+C:\Projects\Playground\WebApplication11\WebApplication11\bin\System.Net.Http.Formatting.xml
+C:\Projects\Playground\WebApplication11\WebApplication11\bin\System.Web.Http.xml
+C:\Projects\Playground\WebApplication11\WebApplication11\bin\System.Web.Http.WebHost.xml
+C:\Projects\Playground\WebApplication11\WebApplication11\obj\Debug\WebApplication11.csprojResolveAssemblyReference.cache
+C:\Projects\Playground\WebApplication11\WebApplication11\obj\Debug\WebApplication11.dll
+C:\Projects\Playground\WebApplication11\WebApplication11\obj\Debug\WebApplication11.pdb
